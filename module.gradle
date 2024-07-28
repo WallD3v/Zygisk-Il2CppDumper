@@ -1,9 +1,9 @@
 ext {
-    moduleLibraryName = "il2cppdumper"
-    magiskModuleId = "dumper_standrise"
-    moduleName = "StandRise Dumper"
+    moduleLibraryName = "il2cppdumper_evo"
+    magiskModuleId = "dumper_evolution"
+    moduleName = "Project Evolution Dumper"
     moduleAuthor = "WallD3v"
-    moduleDescription = "Dumps StandRise"
+    moduleDescription = "Dumps Project evolution"
     moduleVersion = "v1.0"
     moduleVersionCode = 1
 }
