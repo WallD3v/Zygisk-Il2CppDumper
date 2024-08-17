@@ -1,7 +1,7 @@
 ext {
-    moduleLibraryName = "il2cppdumper_so2"
-    magiskModuleId = "dumper_so2"
-    moduleName = "Standoff 2 Dumper"
+    moduleLibraryName = "blockstrike_dumper"
+    magiskModuleId = "blockstrike_dump"
+    moduleName = "Block Strike Dumper"
     moduleAuthor = "WallD3v"
     moduleDescription = "Dumps Game"
     moduleVersion = "v1.0"
