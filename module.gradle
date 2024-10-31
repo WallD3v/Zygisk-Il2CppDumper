@@ -1,7 +1,7 @@
 ext {
-    moduleLibraryName = "blockstrike_dumper"
-    magiskModuleId = "blockstrike_dump"
-    moduleName = "Block Strike Dumper"
+    moduleLibraryName = "bpm_dumper"
+    magiskModuleId = "bpm_dump"
+    moduleName = "BPM Dumper"
     moduleAuthor = "WallD3v"
     moduleDescription = "Dumps Game"
     moduleVersion = "v1.0"
